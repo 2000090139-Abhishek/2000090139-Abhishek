@@ -12,13 +12,13 @@
    
    
    <h3 align="center">Full Stack Web Developer and Ethical Hacker</h3>
-   <p align="center">I am a passionate and dedicated computer science and information technology professional with expertise in C, C++, Java, Python, and Full Stack Development. With an interest in Cyber Security and Web Development.</p>
-   
+   <p align="center">Comfortable working with C, C++, Python, Django and Full Stack Development. Can work well under pressure and make the best of any situation. With an interest in Cyber Security and Web Development. A passionate individual with good communication skills. </p>
+
 <div align="center">
 
- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niranjan8790_)
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niranjansah.com.np/)
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-sah/)
+ [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abhishe17831082)
+ <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niranjansah.com.np/) -->
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekchaudhary139/)
 
 
 </div>
@@ -27,13 +27,11 @@
    ## 🚀 About Me
    🔬 I'm currently pursuing B-tech degree in Computer Science and Information technology, at KL University.
    
-   👩‍💻 I'm currently working on django,react js.
+   👩‍💻 I'm currently working on django.
    
    🧠 I'm currently diving into the world of Cybersecurity and Ethical Hacking.
    
-   💻 I love writing code and learn anythings about it.
-   
-   💬 Ask me anything about from <a href="https://www.linkedin.com/in/niranjan-sah/">Here</a>
+   💬 Ask me anything about from <a href="https://www.linkedin.com/in/abhishekchaudhary139//">Here</a>
    
    ⚡️ Fun fact...
    
@@ -43,10 +41,10 @@
     Operating System**
     <p>
        <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px;"></a>
+       <a href="#"><img alt="Parrot" src="https://img.shields.io/badge/Parrot-E95420?style=for-the-badge&logo=Parrot&logoColor=white" style="height:20px;"></a>
        <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="height:20px;"></a>
        <a href="#"><img alt="Kali Liux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" style="height:20px;"></a>
        <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px;"></a>
-       
    </p>
    
    **👨‍💻 Programming and markup languages**
@@ -98,7 +96,7 @@
    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
    <p align="center">
      <a href="#">
-       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090139-Abhishek&theme=vue-dark&hide_border=true"/>
+       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090139-Abhishek&theme=vue-dark&hide_border=true"/>
     </a>
 <!--        <img src="https://github-readme-streak-stats.herokuapp.com?user=niranjansah87&theme=neon" alt="GitHub Streak" /></a> -->
    </p>
@@ -109,7 +107,7 @@
   
  <p align="center">
     <a href="#"><img alt="Commit Details" src="https://github-readme-stats.vercel.app/api?username=2000090139-Abhishek&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></a>
-  <a href="#"><img alt="Niranjan sah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2000090139-Abhishek&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style=" height:200px; margin-left: 45px;" /></a>
+  <a href="#"><img alt="Abhishek Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2000090139-Abhishek&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style=" height:200px; margin-left: 45px;" /></a>
  </p>
 <br/>
 
@@ -119,15 +117,15 @@
    ## 📘 My top projects
    
    <div width="100%" align="center">
-     <a align="left" href="https://github.com/niranjansah87/Niranjan-Portfolio" title="Niranjan-Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Niranjan-Portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/niranjansah87/Niranjan-Portfolio-React" title="Niranjan-Portfolio-React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Niranjan-Portfolio-React&theme=react&border_color=61dafb&border_radius=10"></a>
+     <a align="left" href="https://github.com/2000090139-Abhishek/ERP" title="ERP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2000090139-Abhishek&repo=ERP&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/2000090139-Abhishek/Whatsapp-clone" title="Whatsapp-clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2000090139-Abhishek&repo=Whatsapp-clone&theme=react&border_color=61dafb&border_radius=10"></a>
    </div>
    <br/><br/><br/><br/><br/><br/>
-   <div width="100%" align="center">
-     <a align="left" href="https://github.com/niranjansah87/AutoZ" title="AutoZ"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=AutoZ&theme=react&border_color=61dafb&border_radius=10"></a>
+   <!-- <div width="100%" align="center">
+     <a align="left" href="https://github.com/2000090139-Abhishek/#" title="#"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2000090139-Abhishek&repo=#&theme=react&border_color=61dafb&border_radius=10"></a>
      
-  <a align="right" href="https://github.com/niranjansah87/KLSAMARTHYA" title="KL SAMARTHYA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=KLSAMARTHYA&theme=react&border_color=61dafb&border_radius=10"></a>
-   </div>
+  <a align="right" href="https://github.com/2000090139-Abhishek/#" title="#"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2000090139-Abhishek&repo=#&theme=react&border_color=61dafb&border_radius=10"></a>
+   </div> -->
    <br><br><br><br><br><br>
    <h4 align="center">
      <a href="https://github.com/2000090139-Abhishek?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
@@ -135,17 +133,17 @@
    <br>
    <hr>
    <p align="center">
-      <i>Success is my only option; failure is not in my vocabulary🏆😎</i>
+      <i>We, as students, either win or learn; we never accept defeat.🏆😎</i>
       <br>
 
    <br>
    </p>
    <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/niranjan8790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niranjan8790" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/niranjan-sah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niranjan-sah/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/niranjan8790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/niranjan8790" height="30" width="40" /></a>
-<a href="https://instagram.com/_.its_.niranjan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.its_.niranjan._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/niranjan_786" target="blank"><img align="center" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="niranjan_786" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/Abhishe17831082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishe17831082" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishekchaudhary139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekchaudhary139/" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/https://www.facebook.com/niranjan8790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/niranjan8790" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/_.its_.niranjan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.its_.niranjan._" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/niranjan_786" target="blank"><img align="center" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="niranjan_786" height="30" width="40" /></a>
+</p> -->
    
