@@ -98,7 +98,7 @@
      <a href="#">
        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com?user=2000090139-Abhishek&theme=dark"/>
     </a>
-       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2000090139-Abhishek&theme=dark)](https://git.io/streak-stats)
+       
 <!--        <img src="https://github-readme-streak-stats.herokuapp.com?user=niranjansah87&theme=neon" alt="GitHub Streak" /></a> -->
    </p>
    
