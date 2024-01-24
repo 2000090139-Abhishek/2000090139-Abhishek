@@ -123,8 +123,10 @@
    </div>
    <br/><br/><br/><br/><br/><br/>
    <div width="100%" align="center">
-     <a align="left" href="https://github.com/2000090139-Abhishek/SFED.git" title="#"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2000090139-Abhishek&repo=#&theme=react&border_color=61dafb&border_radius=10"></a>   
-    <a align="right" href="https://github.com/2000090139-Abhishek/#" title="#"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2000090139-Abhishek&repo=#&theme=react&border_color=61dafb&border_radius=10"></a>
+     <a align="left" href="https://github.com/2000090139-Abhishek/SFED.git" title="Secure File Encryption & Decryption System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2000090139-Abhishek&repo=Secure File Encryption & Decryption System&theme=react&border_color=61dafb&border_radius=10"></a>  
+
+    <!-- <a align="right" https://github.com/2000090139-Abhishek/SFED.#" title="#"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2000090139-Abhishek&repo=#&theme=react&border_color=61dafb&border_radius=10"></a> -->
+    
    </div> 
    <br><br><br><br><br><br>
    <h4 align="center">
